@@ -1,0 +1,471 @@
+user_id,timestamp,ip,risk_score,risk_level,reason
+user_1,2026-04-22 21:37:58.317009,192.168.1.28,20,Low,Anomalous pattern (ML)
+user_1,2026-04-22 22:49:58.317009,192.168.1.36,20,Low,Anomalous pattern (ML)
+user_1,2026-04-22 23:26:58.317009,192.168.1.43,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_1,2026-04-23 00:05:58.317009,192.168.1.17,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_1,2026-04-23 00:28:58.317009,192.168.1.16,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_1,2026-04-23 01:18:58.317009,192.168.1.18,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_1,2026-04-23 02:06:58.317009,192.168.1.14,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_1,2026-04-23 02:16:58.317009,192.168.1.15,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_1,2026-04-23 03:28:58.317009,192.168.1.35,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_1,2026-04-23 04:05:58.317009,192.168.1.28,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_1,2026-04-23 05:56:58.317009,192.168.1.45,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_1,2026-04-23 06:13:58.317009,192.168.1.34,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_1,2026-04-23 06:56:58.317009,192.168.1.24,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_1,2026-04-23 08:18:58.317009,192.168.1.38,20,Low,Anomalous pattern (ML)
+user_1,2026-04-23 08:52:58.317009,192.168.1.29,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_1,2026-04-23 12:54:58.317009,192.168.1.34,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_1,2026-04-23 13:41:58.317009,192.168.1.9,20,Low,Anomalous pattern (ML)
+user_1,2026-04-23 14:31:58.317009,192.168.1.44,20,Low,Anomalous pattern (ML)
+user_1,2026-04-23 15:41:58.317009,192.168.1.39,20,Low,Anomalous pattern (ML)
+user_1,2026-04-23 15:50:58.317009,192.168.1.48,30,Medium,Impossible travel detected
+user_1,2026-04-23 16:59:58.317009,192.168.1.7,20,Low,Anomalous pattern (ML)
+user_1,2026-04-23 19:47:58.317009,192.168.1.22,20,Low,Anomalous pattern (ML)
+user_1,2026-04-23 20:06:58.317009,192.168.1.49,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_1,2026-04-24 02:06:58.317009,192.168.1.46,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_1,2026-04-24 03:26:58.317009,192.168.1.1,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_1,2026-04-24 06:42:58.317009,192.168.1.7,20,Low,Anomalous pattern (ML)
+user_1,2026-04-24 07:17:58.317009,192.168.1.48,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_1,2026-04-24 08:58:58.317009,192.168.1.47,20,Low,Anomalous pattern (ML)
+user_10,2026-04-22 15:48:58.317009,192.168.1.46,20,Low,Anomalous pattern (ML)
+user_10,2026-04-22 16:50:58.317009,192.168.1.48,20,Low,Anomalous pattern (ML)
+user_10,2026-04-22 17:34:58.317009,192.168.1.49,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_10,2026-04-22 18:32:58.317009,192.168.1.2,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_10,2026-04-22 18:39:58.317009,192.168.1.42,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_10,2026-04-22 19:58:58.317009,192.168.1.29,20,Low,Anomalous pattern (ML)
+user_10,2026-04-22 21:24:58.317009,192.168.1.30,20,Low,Anomalous pattern (ML)
+user_10,2026-04-22 21:58:58.317009,192.168.1.13,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_10,2026-04-22 22:18:58.317009,192.168.1.6,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_10,2026-04-22 23:16:58.317009,192.168.1.13,30,Medium,Impossible travel detected
+user_10,2026-04-23 00:56:58.317009,192.168.1.14,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_10,2026-04-23 01:23:58.317009,1.1.1.1,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_10,2026-04-23 01:28:58.317009,2.2.2.2,40,Medium,"Impossible travel detected, Login at unusual hour"
+user_10,2026-04-23 01:58:58.317009,192.168.1.49,10,Low,Login at unusual hour
+user_10,2026-04-23 04:25:58.317009,192.168.1.15,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_10,2026-04-23 04:55:58.317009,192.168.1.25,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_10,2026-04-23 05:16:58.317009,192.168.1.8,40,Medium,"Impossible travel detected, Login at unusual hour"
+user_10,2026-04-23 06:02:58.317009,192.168.1.12,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_10,2026-04-23 06:56:58.317009,192.168.1.25,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_10,2026-04-23 08:01:58.317009,192.168.1.27,20,Low,Anomalous pattern (ML)
+user_10,2026-04-23 09:46:58.317009,192.168.1.44,20,Low,Anomalous pattern (ML)
+user_10,2026-04-23 09:52:58.317009,192.168.1.36,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_10,2026-04-23 11:34:58.317009,192.168.1.20,20,Low,Anomalous pattern (ML)
+user_10,2026-04-23 15:36:58.317009,192.168.1.21,20,Low,Anomalous pattern (ML)
+user_10,2026-04-23 18:32:58.317009,192.168.1.43,20,Low,Anomalous pattern (ML)
+user_10,2026-04-23 19:22:58.317009,192.168.1.8,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_10,2026-04-24 00:26:58.317009,192.168.1.4,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_10,2026-04-24 01:01:58.317009,192.168.1.27,40,Medium,"Impossible travel detected, Login at unusual hour"
+user_10,2026-04-24 02:26:58.317009,192.168.1.29,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_10,2026-04-24 05:44:58.317009,192.168.1.28,10,Low,Login at unusual hour
+user_10,2026-04-24 07:01:58.317009,192.168.1.35,20,Low,Anomalous pattern (ML)
+user_10,2026-04-24 07:46:58.317009,192.168.1.15,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_10,2026-04-24 08:09:58.317009,192.168.1.24,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_10,2026-04-24 08:30:58.317009,192.168.1.46,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_11,2026-04-22 16:15:58.317009,192.168.1.29,20,Low,Anomalous pattern (ML)
+user_11,2026-04-22 16:55:58.317009,192.168.1.17,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_11,2026-04-22 21:02:58.317009,192.168.1.25,20,Low,Anomalous pattern (ML)
+user_11,2026-04-22 21:06:58.317009,192.168.1.36,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_11,2026-04-22 23:55:58.317009,192.168.1.13,20,Low,Anomalous pattern (ML)
+user_11,2026-04-23 03:43:58.317009,192.168.1.33,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_11,2026-04-23 05:32:58.317009,192.168.1.43,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_11,2026-04-23 10:01:58.317009,192.168.1.16,20,Low,Anomalous pattern (ML)
+user_11,2026-04-23 11:08:58.317009,192.168.1.1,20,Low,Anomalous pattern (ML)
+user_11,2026-04-23 17:37:58.317009,192.168.1.7,20,Low,Anomalous pattern (ML)
+user_11,2026-04-23 19:12:58.317009,192.168.1.39,20,Low,Anomalous pattern (ML)
+user_11,2026-04-23 22:01:58.317009,192.168.1.4,20,Low,Anomalous pattern (ML)
+user_11,2026-04-23 22:39:58.317009,192.168.1.22,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_11,2026-04-24 01:43:58.317009,192.168.1.15,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_11,2026-04-24 01:51:58.317009,192.168.1.29,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_11,2026-04-24 03:13:58.317009,192.168.1.37,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_11,2026-04-24 06:54:58.317009,192.168.1.47,20,Low,Anomalous pattern (ML)
+user_12,2026-04-22 19:22:58.317009,192.168.1.36,20,Low,Anomalous pattern (ML)
+user_12,2026-04-22 22:29:58.317009,192.168.1.4,20,Low,Anomalous pattern (ML)
+user_12,2026-04-23 00:45:58.317009,192.168.1.20,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_12,2026-04-23 02:56:58.317009,192.168.1.21,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_12,2026-04-23 03:00:58.317009,192.168.1.14,10,Low,Login at unusual hour
+user_12,2026-04-23 03:29:58.317009,192.168.1.49,40,Medium,"Impossible travel detected, Login at unusual hour"
+user_12,2026-04-23 04:32:58.317009,192.168.1.24,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_12,2026-04-23 04:48:58.317009,192.168.1.11,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_12,2026-04-23 08:00:58.317009,192.168.1.15,20,Low,Anomalous pattern (ML)
+user_12,2026-04-23 10:36:58.317009,192.168.1.44,20,Low,Anomalous pattern (ML)
+user_12,2026-04-23 11:24:58.317009,192.168.1.6,20,Low,Anomalous pattern (ML)
+user_12,2026-04-23 12:12:58.317009,192.168.1.46,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_12,2026-04-23 13:51:58.317009,192.168.1.25,20,Low,Anomalous pattern (ML)
+user_12,2026-04-23 15:01:58.317009,192.168.1.11,20,Low,Anomalous pattern (ML)
+user_12,2026-04-23 16:33:58.317009,192.168.1.44,20,Low,Anomalous pattern (ML)
+user_12,2026-04-23 16:50:58.317009,192.168.1.10,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_12,2026-04-23 18:51:58.317009,192.168.1.37,20,Low,Anomalous pattern (ML)
+user_12,2026-04-23 19:57:58.317009,192.168.1.33,20,Low,Anomalous pattern (ML)
+user_12,2026-04-24 00:03:58.317009,192.168.1.26,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_12,2026-04-24 03:12:58.317009,192.168.1.39,10,Low,Login at unusual hour
+user_12,2026-04-24 03:30:58.317009,192.168.1.37,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_12,2026-04-24 03:54:58.317009,192.168.1.34,40,Medium,"Impossible travel detected, Login at unusual hour"
+user_12,2026-04-24 04:03:58.317009,192.168.1.11,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_12,2026-04-24 05:00:58.317009,192.168.1.42,40,Medium,"Impossible travel detected, Login at unusual hour"
+user_12,2026-04-24 05:24:58.317009,192.168.1.37,10,Low,Login at unusual hour
+user_12,2026-04-24 07:46:58.317009,192.168.1.13,20,Low,Anomalous pattern (ML)
+user_13,2026-04-22 16:20:58.317009,192.168.1.32,20,Low,Anomalous pattern (ML)
+user_13,2026-04-22 17:15:58.317009,192.168.1.4,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_13,2026-04-22 19:04:58.317009,192.168.1.48,20,Low,Anomalous pattern (ML)
+user_13,2026-04-22 20:22:58.317009,192.168.1.45,20,Low,Anomalous pattern (ML)
+user_13,2026-04-22 20:41:58.317009,192.168.1.13,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_13,2026-04-22 21:33:58.317009,192.168.1.29,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_13,2026-04-22 21:59:58.317009,192.168.1.13,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_13,2026-04-22 22:12:58.317009,192.168.1.34,30,Medium,Impossible travel detected
+user_13,2026-04-22 22:58:58.317009,192.168.1.10,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_13,2026-04-22 23:29:58.317009,192.168.1.30,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_13,2026-04-23 01:09:58.317009,192.168.1.6,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_13,2026-04-23 01:41:58.317009,192.168.1.14,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_13,2026-04-23 02:33:58.317009,192.168.1.10,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_13,2026-04-23 04:33:58.317009,192.168.1.44,10,Low,Login at unusual hour
+user_13,2026-04-23 06:17:58.317009,192.168.1.46,20,Low,Anomalous pattern (ML)
+user_13,2026-04-23 10:49:58.317009,192.168.1.12,20,Low,Anomalous pattern (ML)
+user_13,2026-04-23 11:50:58.317009,192.168.1.38,20,Low,Anomalous pattern (ML)
+user_13,2026-04-23 14:24:58.317009,192.168.1.7,20,Low,Anomalous pattern (ML)
+user_13,2026-04-23 16:46:58.317009,192.168.1.17,20,Low,Anomalous pattern (ML)
+user_13,2026-04-23 17:35:58.317009,192.168.1.19,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_13,2026-04-23 17:49:58.317009,192.168.1.47,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_13,2026-04-23 19:26:58.317009,192.168.1.9,20,Low,Anomalous pattern (ML)
+user_13,2026-04-23 20:53:58.317009,192.168.1.19,20,Low,Anomalous pattern (ML)
+user_13,2026-04-23 20:56:58.317009,192.168.1.25,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_13,2026-04-23 22:33:58.317009,192.168.1.1,30,Medium,Impossible travel detected
+user_13,2026-04-23 23:28:58.317009,192.168.1.48,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_13,2026-04-24 01:32:58.317009,192.168.1.25,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_13,2026-04-24 02:21:58.317009,192.168.1.35,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_13,2026-04-24 03:34:58.317009,192.168.1.18,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_13,2026-04-24 04:45:58.317009,192.168.1.39,10,Low,Login at unusual hour
+user_13,2026-04-24 05:16:58.317009,192.168.1.10,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_14,2026-04-22 15:33:58.317009,192.168.1.19,20,Low,Anomalous pattern (ML)
+user_14,2026-04-22 16:19:58.317009,192.168.1.6,30,Medium,Impossible travel detected
+user_14,2026-04-22 16:33:58.317009,192.168.1.41,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_14,2026-04-22 16:54:58.317009,192.168.1.20,30,Medium,Impossible travel detected
+user_14,2026-04-22 17:07:58.317009,192.168.1.7,20,Low,Anomalous pattern (ML)
+user_14,2026-04-22 19:16:58.317009,192.168.1.32,20,Low,Anomalous pattern (ML)
+user_14,2026-04-22 20:01:58.317009,192.168.1.31,20,Low,Anomalous pattern (ML)
+user_14,2026-04-22 20:56:58.317009,192.168.1.23,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_14,2026-04-23 01:18:58.317009,192.168.1.38,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_14,2026-04-23 01:55:58.317009,192.168.1.10,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_14,2026-04-23 03:14:58.317009,192.168.1.34,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_14,2026-04-23 04:01:58.317009,192.168.1.45,40,Medium,"Impossible travel detected, Login at unusual hour"
+user_14,2026-04-23 11:29:58.317009,192.168.1.10,20,Low,Anomalous pattern (ML)
+user_14,2026-04-23 13:59:58.317009,192.168.1.6,20,Low,Anomalous pattern (ML)
+user_14,2026-04-23 17:23:58.317009,192.168.1.41,20,Low,Anomalous pattern (ML)
+user_14,2026-04-23 20:16:58.317009,192.168.1.34,20,Low,Anomalous pattern (ML)
+user_14,2026-04-23 21:08:58.317009,192.168.1.29,60,Medium,"Multiple failed attempts, Anomalous pattern (ML)"
+user_14,2026-04-23 23:01:58.317009,192.168.1.40,20,Low,Anomalous pattern (ML)
+user_14,2026-04-24 00:52:58.317009,192.168.1.36,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_14,2026-04-24 01:50:58.317009,192.168.1.2,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_14,2026-04-24 04:30:58.317009,192.168.1.7,10,Low,Login at unusual hour
+user_14,2026-04-24 06:00:58.317009,192.168.1.30,20,Low,Anomalous pattern (ML)
+user_15,2026-04-22 22:49:58.317009,192.168.1.30,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_15,2026-04-22 23:45:58.317009,192.168.1.16,20,Low,Anomalous pattern (ML)
+user_15,2026-04-23 02:20:58.317009,192.168.1.3,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_15,2026-04-23 04:28:58.317009,192.168.1.30,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_15,2026-04-23 05:27:58.317009,192.168.1.15,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_15,2026-04-23 06:51:58.317009,192.168.1.46,20,Low,Anomalous pattern (ML)
+user_15,2026-04-23 08:57:58.317009,192.168.1.10,20,Low,Anomalous pattern (ML)
+user_15,2026-04-23 14:43:58.317009,192.168.1.30,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_15,2026-04-23 18:43:58.317009,192.168.1.1,20,Low,Anomalous pattern (ML)
+user_15,2026-04-24 01:14:58.317009,192.168.1.10,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_15,2026-04-24 01:58:58.317009,192.168.1.10,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_15,2026-04-24 03:04:58.317009,192.168.1.42,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_15,2026-04-24 06:57:58.317009,192.168.1.11,20,Low,Anomalous pattern (ML)
+user_16,2026-04-22 16:08:58.317009,192.168.1.47,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_16,2026-04-22 17:48:58.317009,192.168.1.48,20,Low,Anomalous pattern (ML)
+user_16,2026-04-22 20:27:58.317009,192.168.1.24,20,Low,Anomalous pattern (ML)
+user_16,2026-04-22 21:28:58.317009,192.168.1.18,20,Low,Anomalous pattern (ML)
+user_16,2026-04-22 22:37:58.317009,192.168.1.23,20,Low,Anomalous pattern (ML)
+user_16,2026-04-22 22:41:58.317009,192.168.1.27,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_16,2026-04-22 23:02:58.317009,192.168.1.29,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_16,2026-04-23 02:34:58.317009,192.168.1.32,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_16,2026-04-23 04:13:58.317009,192.168.1.48,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_16,2026-04-23 04:49:58.317009,192.168.1.39,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_16,2026-04-23 05:07:58.317009,192.168.1.5,40,Medium,"Impossible travel detected, Login at unusual hour"
+user_16,2026-04-23 05:17:58.317009,192.168.1.23,10,Low,Login at unusual hour
+user_16,2026-04-23 05:38:58.317009,192.168.1.27,10,Low,Login at unusual hour
+user_16,2026-04-23 05:58:58.317009,192.168.1.29,40,Medium,"Impossible travel detected, Login at unusual hour"
+user_16,2026-04-23 06:36:58.317009,192.168.1.18,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_16,2026-04-23 10:05:58.317009,192.168.1.37,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_16,2026-04-23 11:00:58.317009,192.168.1.37,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_16,2026-04-23 11:44:58.317009,192.168.1.46,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_16,2026-04-23 12:29:58.317009,192.168.1.36,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_16,2026-04-23 13:20:58.317009,192.168.1.40,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_16,2026-04-23 14:41:58.317009,192.168.1.4,20,Low,Anomalous pattern (ML)
+user_16,2026-04-23 15:13:58.317009,192.168.1.34,30,Medium,Impossible travel detected
+user_16,2026-04-23 15:49:58.317009,192.168.1.30,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_16,2026-04-23 15:57:58.317009,192.168.1.2,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_16,2026-04-23 16:23:58.317009,192.168.1.22,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_16,2026-04-23 20:12:58.317009,192.168.1.43,20,Low,Anomalous pattern (ML)
+user_16,2026-04-23 21:26:58.317009,192.168.1.7,20,Low,Anomalous pattern (ML)
+user_16,2026-04-23 23:12:58.317009,192.168.1.14,20,Low,Anomalous pattern (ML)
+user_16,2026-04-23 23:24:58.317009,192.168.1.42,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_16,2026-04-24 00:42:58.317009,192.168.1.41,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_16,2026-04-24 04:25:58.317009,192.168.1.45,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_16,2026-04-24 05:11:58.317009,192.168.1.11,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_16,2026-04-24 05:50:58.317009,192.168.1.11,40,Medium,"Impossible travel detected, Login at unusual hour"
+user_16,2026-04-24 07:40:58.317009,192.168.1.1,20,Low,Anomalous pattern (ML)
+user_16,2026-04-24 08:44:58.317009,192.168.1.21,20,Low,Anomalous pattern (ML)
+user_17,2026-04-22 17:27:58.317009,192.168.1.38,20,Low,Anomalous pattern (ML)
+user_17,2026-04-22 17:50:58.317009,192.168.1.30,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_17,2026-04-22 18:34:58.317009,192.168.1.32,30,Medium,Impossible travel detected
+user_17,2026-04-22 18:46:58.317009,192.168.1.32,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_17,2026-04-22 18:54:58.317009,192.168.1.22,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_17,2026-04-22 20:09:58.317009,192.168.1.22,20,Low,Anomalous pattern (ML)
+user_17,2026-04-22 21:52:58.317009,192.168.1.11,20,Low,Anomalous pattern (ML)
+user_17,2026-04-22 23:52:58.317009,192.168.1.26,20,Low,Anomalous pattern (ML)
+user_17,2026-04-23 02:15:58.317009,192.168.1.34,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_17,2026-04-23 06:24:58.317009,192.168.1.33,20,Low,Anomalous pattern (ML)
+user_17,2026-04-23 06:34:58.317009,192.168.1.14,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_17,2026-04-23 07:26:58.317009,192.168.1.23,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_17,2026-04-23 07:47:58.317009,192.168.1.18,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_17,2026-04-23 12:13:58.317009,192.168.1.21,20,Low,Anomalous pattern (ML)
+user_17,2026-04-23 14:18:58.317009,192.168.1.12,20,Low,Anomalous pattern (ML)
+user_17,2026-04-23 14:54:58.317009,192.168.1.39,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_17,2026-04-23 15:16:58.317009,192.168.1.9,90,High,"Multiple failed attempts, Impossible travel detected, Anomalous pattern (ML)"
+user_17,2026-04-23 15:27:58.317009,192.168.1.27,90,High,"Multiple failed attempts, Impossible travel detected, Anomalous pattern (ML)"
+user_17,2026-04-23 17:03:58.317009,192.168.1.39,20,Low,Anomalous pattern (ML)
+user_17,2026-04-23 18:17:58.317009,192.168.1.6,20,Low,Anomalous pattern (ML)
+user_17,2026-04-23 18:26:58.317009,192.168.1.12,30,Medium,Impossible travel detected
+user_17,2026-04-23 18:53:58.317009,192.168.1.30,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_17,2026-04-23 19:08:58.317009,192.168.1.10,30,Medium,Impossible travel detected
+user_17,2026-04-23 22:26:58.317009,192.168.1.23,20,Low,Anomalous pattern (ML)
+user_17,2026-04-24 00:24:58.317009,192.168.1.33,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_17,2026-04-24 00:34:58.317009,192.168.1.48,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_17,2026-04-24 00:53:58.317009,192.168.1.26,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_17,2026-04-24 01:30:58.317009,192.168.1.24,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_17,2026-04-24 02:32:58.317009,192.168.1.24,10,Low,Login at unusual hour
+user_17,2026-04-24 02:56:58.317009,192.168.1.14,10,Low,Login at unusual hour
+user_17,2026-04-24 02:59:58.317009,192.168.1.4,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_18,2026-04-22 17:22:58.317009,192.168.1.38,20,Low,Anomalous pattern (ML)
+user_18,2026-04-22 21:53:58.317009,192.168.1.5,20,Low,Anomalous pattern (ML)
+user_18,2026-04-23 00:37:58.317009,192.168.1.11,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_18,2026-04-23 06:46:58.317009,192.168.1.48,20,Low,Anomalous pattern (ML)
+user_18,2026-04-23 07:24:58.317009,192.168.1.14,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_18,2026-04-23 08:21:58.317009,192.168.1.26,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_18,2026-04-23 13:03:58.317009,192.168.1.48,20,Low,Anomalous pattern (ML)
+user_18,2026-04-23 14:20:58.317009,192.168.1.3,20,Low,Anomalous pattern (ML)
+user_18,2026-04-23 16:08:58.317009,192.168.1.9,20,Low,Anomalous pattern (ML)
+user_18,2026-04-23 16:32:58.317009,192.168.1.24,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_18,2026-04-23 17:10:58.317009,192.168.1.14,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_18,2026-04-23 20:10:58.317009,192.168.1.22,20,Low,Anomalous pattern (ML)
+user_18,2026-04-23 20:37:58.317009,192.168.1.18,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_18,2026-04-23 22:48:58.317009,192.168.1.19,20,Low,Anomalous pattern (ML)
+user_18,2026-04-23 22:54:58.317009,192.168.1.36,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_18,2026-04-23 23:33:58.317009,192.168.1.45,30,Medium,Impossible travel detected
+user_18,2026-04-23 23:39:58.317009,192.168.1.8,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_18,2026-04-23 23:41:58.317009,192.168.1.12,30,Medium,Impossible travel detected
+user_18,2026-04-23 23:57:58.317009,192.168.1.33,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_18,2026-04-24 00:07:58.317009,192.168.1.37,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_18,2026-04-24 03:50:58.317009,192.168.1.48,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_18,2026-04-24 04:43:58.317009,192.168.1.38,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_18,2026-04-24 04:45:58.317009,192.168.1.47,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_18,2026-04-24 06:29:58.317009,192.168.1.25,20,Low,Anomalous pattern (ML)
+user_18,2026-04-24 07:55:58.317009,192.168.1.35,20,Low,Anomalous pattern (ML)
+user_18,2026-04-24 08:23:58.317009,192.168.1.5,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_18,2026-04-24 09:03:58.317009,192.168.1.1,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_19,2026-04-22 17:40:58.317009,192.168.1.14,20,Low,Anomalous pattern (ML)
+user_19,2026-04-22 18:22:58.317009,192.168.1.35,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_19,2026-04-23 00:13:58.317009,192.168.1.29,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_19,2026-04-23 00:28:58.317009,192.168.1.44,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_19,2026-04-23 02:27:58.317009,192.168.1.43,10,Low,Login at unusual hour
+user_19,2026-04-23 06:16:58.317009,192.168.1.36,20,Low,Anomalous pattern (ML)
+user_19,2026-04-23 06:59:58.317009,192.168.1.44,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_19,2026-04-23 07:20:58.317009,192.168.1.4,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_19,2026-04-23 07:44:58.317009,192.168.1.8,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_19,2026-04-23 07:48:58.317009,192.168.1.15,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_19,2026-04-23 08:09:58.317009,192.168.1.13,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_19,2026-04-23 08:17:58.317009,192.168.1.3,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_19,2026-04-23 08:37:58.317009,192.168.1.29,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_19,2026-04-23 12:47:58.317009,192.168.1.44,20,Low,Anomalous pattern (ML)
+user_19,2026-04-23 16:11:58.317009,192.168.1.40,20,Low,Anomalous pattern (ML)
+user_19,2026-04-23 18:13:58.317009,192.168.1.21,20,Low,Anomalous pattern (ML)
+user_19,2026-04-23 19:53:58.317009,192.168.1.31,20,Low,Anomalous pattern (ML)
+user_19,2026-04-23 21:07:58.317009,192.168.1.8,20,Low,Anomalous pattern (ML)
+user_19,2026-04-23 22:41:58.317009,192.168.1.26,20,Low,Anomalous pattern (ML)
+user_19,2026-04-24 02:10:58.317009,192.168.1.29,10,Low,Login at unusual hour
+user_19,2026-04-24 02:15:58.317009,192.168.1.10,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_19,2026-04-24 03:50:58.317009,192.168.1.36,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_19,2026-04-24 04:33:58.317009,192.168.1.35,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_19,2026-04-24 05:55:58.317009,192.168.1.2,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_19,2026-04-24 06:36:58.317009,192.168.1.16,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_19,2026-04-24 08:29:58.317009,192.168.1.46,20,Low,Anomalous pattern (ML)
+user_2,2026-04-22 19:36:58.317009,192.168.1.15,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_2,2026-04-22 21:09:58.317009,192.168.1.41,20,Low,Anomalous pattern (ML)
+user_2,2026-04-23 03:25:58.317009,192.168.1.42,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_2,2026-04-23 05:38:58.317009,192.168.1.38,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_2,2026-04-23 06:32:58.317009,192.168.1.43,60,Medium,"Multiple failed attempts, Anomalous pattern (ML)"
+user_2,2026-04-23 07:11:58.317009,192.168.1.7,30,Medium,Impossible travel detected
+user_2,2026-04-23 09:23:58.317009,192.168.1.38,20,Low,Anomalous pattern (ML)
+user_2,2026-04-23 09:55:58.317009,192.168.1.48,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_2,2026-04-23 13:28:58.317009,192.168.1.32,20,Low,Anomalous pattern (ML)
+user_2,2026-04-23 14:53:58.317009,192.168.1.9,20,Low,Anomalous pattern (ML)
+user_2,2026-04-23 16:24:58.317009,192.168.1.40,20,Low,Anomalous pattern (ML)
+user_2,2026-04-23 17:21:58.317009,192.168.1.47,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_2,2026-04-23 18:43:58.317009,192.168.1.6,20,Low,Anomalous pattern (ML)
+user_2,2026-04-23 18:57:58.317009,192.168.1.21,30,Medium,Impossible travel detected
+user_2,2026-04-23 20:23:58.317009,192.168.1.46,20,Low,Anomalous pattern (ML)
+user_2,2026-04-23 20:53:58.317009,192.168.1.7,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_2,2026-04-23 22:20:58.317009,192.168.1.21,20,Low,Anomalous pattern (ML)
+user_2,2026-04-23 23:52:58.317009,192.168.1.14,20,Low,Anomalous pattern (ML)
+user_2,2026-04-24 00:18:58.317009,192.168.1.48,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_2,2026-04-24 02:52:58.317009,192.168.1.14,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_2,2026-04-24 04:09:58.317009,192.168.1.24,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_2,2026-04-24 05:13:58.317009,192.168.1.13,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_2,2026-04-24 06:04:58.317009,192.168.1.22,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_2,2026-04-24 06:16:58.317009,192.168.1.26,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_2,2026-04-24 07:28:58.317009,192.168.1.21,20,Low,Anomalous pattern (ML)
+user_20,2026-04-22 15:25:58.317009,192.168.1.16,20,Low,Anomalous pattern (ML)
+user_20,2026-04-22 17:58:58.317009,192.168.1.12,20,Low,Anomalous pattern (ML)
+user_20,2026-04-22 19:52:58.317009,192.168.1.29,20,Low,Anomalous pattern (ML)
+user_20,2026-04-22 20:36:58.317009,192.168.1.42,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_20,2026-04-22 20:55:58.317009,192.168.1.7,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_20,2026-04-22 22:20:58.317009,192.168.1.20,20,Low,Anomalous pattern (ML)
+user_20,2026-04-22 23:12:58.317009,192.168.1.44,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_20,2026-04-23 00:54:58.317009,192.168.1.9,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_20,2026-04-23 01:06:58.317009,192.168.1.6,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_20,2026-04-23 01:15:58.317009,192.168.1.42,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_20,2026-04-23 02:06:58.317009,192.168.1.19,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_20,2026-04-23 09:08:58.317009,192.168.1.25,20,Low,Anomalous pattern (ML)
+user_20,2026-04-23 09:08:58.317009,192.168.1.34,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_20,2026-04-23 10:57:58.317009,192.168.1.32,20,Low,Anomalous pattern (ML)
+user_20,2026-04-23 13:20:58.317009,192.168.1.8,20,Low,Anomalous pattern (ML)
+user_20,2026-04-23 15:17:58.317009,192.168.1.44,20,Low,Anomalous pattern (ML)
+user_20,2026-04-23 17:22:58.317009,192.168.1.38,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_20,2026-04-23 17:54:58.317009,192.168.1.2,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_20,2026-04-23 19:28:58.317009,192.168.1.24,20,Low,Anomalous pattern (ML)
+user_20,2026-04-24 04:12:58.317009,192.168.1.24,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_20,2026-04-24 05:30:58.317009,192.168.1.45,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_20,2026-04-24 05:31:58.317009,192.168.1.47,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_20,2026-04-24 06:52:58.317009,192.168.1.3,20,Low,Anomalous pattern (ML)
+user_3,2026-04-22 03:15:58.317009,192.168.1.100,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_3,2026-04-22 19:00:58.317009,192.168.1.16,20,Low,Anomalous pattern (ML)
+user_3,2026-04-22 20:47:58.317009,192.168.1.35,20,Low,Anomalous pattern (ML)
+user_3,2026-04-22 21:41:58.317009,192.168.1.37,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_3,2026-04-23 00:20:58.317009,192.168.1.36,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_3,2026-04-23 03:57:58.317009,192.168.1.40,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_3,2026-04-23 04:13:58.317009,192.168.1.25,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_3,2026-04-23 09:18:58.317009,192.168.1.29,20,Low,Anomalous pattern (ML)
+user_3,2026-04-23 10:21:58.317009,192.168.1.15,20,Low,Anomalous pattern (ML)
+user_3,2026-04-23 11:55:58.317009,192.168.1.22,20,Low,Anomalous pattern (ML)
+user_3,2026-04-23 16:22:58.317009,192.168.1.39,20,Low,Anomalous pattern (ML)
+user_3,2026-04-24 01:14:58.317009,192.168.1.28,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_3,2026-04-24 04:55:58.317009,192.168.1.44,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_3,2026-04-24 04:59:58.317009,192.168.1.23,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_3,2026-04-24 07:05:58.317009,192.168.1.47,20,Low,Anomalous pattern (ML)
+user_3,2026-04-24 07:17:58.317009,192.168.1.35,30,Medium,Impossible travel detected
+user_3,2026-04-24 08:33:58.317009,192.168.1.19,20,Low,Anomalous pattern (ML)
+user_4,2026-04-22 17:04:58.317009,192.168.1.31,20,Low,Anomalous pattern (ML)
+user_4,2026-04-22 18:08:58.317009,192.168.1.24,20,Low,Anomalous pattern (ML)
+user_4,2026-04-22 19:46:58.317009,192.168.1.4,20,Low,Anomalous pattern (ML)
+user_4,2026-04-22 21:22:58.317009,192.168.1.18,20,Low,Anomalous pattern (ML)
+user_4,2026-04-22 23:43:58.317009,192.168.1.23,20,Low,Anomalous pattern (ML)
+user_4,2026-04-23 01:26:58.317009,192.168.1.33,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_4,2026-04-23 03:05:58.317009,192.168.1.41,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_4,2026-04-23 05:47:58.317009,192.168.1.43,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_4,2026-04-23 09:36:58.317009,192.168.1.34,20,Low,Anomalous pattern (ML)
+user_4,2026-04-23 10:12:58.317009,192.168.1.46,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_4,2026-04-23 11:59:58.317009,192.168.1.10,20,Low,Anomalous pattern (ML)
+user_4,2026-04-23 12:33:58.317009,192.168.1.26,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_4,2026-04-23 12:43:58.317009,192.168.1.29,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_4,2026-04-23 19:39:58.317009,192.168.1.27,20,Low,Anomalous pattern (ML)
+user_4,2026-04-24 08:54:58.317009,192.168.1.5,90,High,"Multiple failed attempts, Impossible travel detected, Anomalous pattern (ML)"
+user_5,2026-04-22 16:01:58.317009,192.168.1.47,20,Low,Anomalous pattern (ML)
+user_5,2026-04-22 19:41:58.317009,192.168.1.49,20,Low,Anomalous pattern (ML)
+user_5,2026-04-22 20:13:58.317009,192.168.1.5,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_5,2026-04-22 20:23:58.317009,10.0.0.1,70,High,"Multiple failed attempts, Impossible travel detected"
+user_5,2026-04-22 20:25:58.317009,10.0.0.1,40,Medium,Multiple failed attempts
+user_5,2026-04-22 20:27:58.317009,10.0.0.1,40,Medium,Multiple failed attempts
+user_5,2026-04-22 20:29:58.317009,10.0.0.1,40,Medium,Multiple failed attempts
+user_5,2026-04-22 20:31:58.317009,10.0.0.1,40,Medium,Multiple failed attempts
+user_5,2026-04-22 23:51:58.317009,192.168.1.45,60,Medium,"Multiple failed attempts, Anomalous pattern (ML)"
+user_5,2026-04-23 01:53:58.317009,192.168.1.30,70,High,"Multiple failed attempts, Anomalous pattern (ML), Login at unusual hour"
+user_5,2026-04-23 03:16:58.317009,192.168.1.14,70,High,"Multiple failed attempts, Anomalous pattern (ML), Login at unusual hour"
+user_5,2026-04-23 04:06:58.317009,192.168.1.49,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_5,2026-04-23 08:41:58.317009,192.168.1.30,20,Low,Anomalous pattern (ML)
+user_5,2026-04-23 17:47:58.317009,192.168.1.12,20,Low,Anomalous pattern (ML)
+user_5,2026-04-24 03:04:58.317009,192.168.1.35,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_5,2026-04-24 05:33:58.317009,192.168.1.46,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_5,2026-04-24 06:16:58.317009,192.168.1.9,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_5,2026-04-24 06:25:58.317009,192.168.1.36,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_5,2026-04-24 08:11:58.317009,192.168.1.7,20,Low,Anomalous pattern (ML)
+user_6,2026-04-22 16:08:58.317009,192.168.1.38,20,Low,Anomalous pattern (ML)
+user_6,2026-04-22 16:35:58.317009,192.168.1.33,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_6,2026-04-22 18:12:58.317009,192.168.1.33,20,Low,Anomalous pattern (ML)
+user_6,2026-04-22 18:26:58.317009,192.168.1.19,30,Medium,Impossible travel detected
+user_6,2026-04-22 19:29:58.317009,192.168.1.38,20,Low,Anomalous pattern (ML)
+user_6,2026-04-23 00:29:58.317009,192.168.1.38,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_6,2026-04-23 02:42:58.317009,192.168.1.26,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_6,2026-04-23 10:15:58.317009,192.168.1.20,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_6,2026-04-23 10:40:58.317009,192.168.1.26,30,Medium,Impossible travel detected
+user_6,2026-04-23 10:41:58.317009,192.168.1.14,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_6,2026-04-23 11:30:58.317009,192.168.1.16,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_6,2026-04-23 12:18:58.317009,192.168.1.45,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_6,2026-04-23 13:09:58.317009,192.168.1.12,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_6,2026-04-23 13:46:58.317009,192.168.1.3,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_6,2026-04-23 14:56:58.317009,192.168.1.47,20,Low,Anomalous pattern (ML)
+user_6,2026-04-23 20:45:58.317009,192.168.1.33,20,Low,Anomalous pattern (ML)
+user_6,2026-04-24 00:28:58.317009,192.168.1.18,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_6,2026-04-24 00:47:58.317009,192.168.1.47,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_6,2026-04-24 01:09:58.317009,192.168.1.35,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_6,2026-04-24 01:27:58.317009,192.168.1.6,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_6,2026-04-24 02:05:58.317009,192.168.1.44,40,Medium,"Impossible travel detected, Login at unusual hour"
+user_6,2026-04-24 02:41:58.317009,192.168.1.22,10,Low,Login at unusual hour
+user_7,2026-04-22 17:18:58.317009,192.168.1.37,20,Low,Anomalous pattern (ML)
+user_7,2026-04-22 17:33:58.317009,192.168.1.21,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_7,2026-04-22 19:33:58.317009,192.168.1.10,20,Low,Anomalous pattern (ML)
+user_7,2026-04-22 20:22:58.317009,192.168.1.15,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_7,2026-04-23 01:39:58.317009,192.168.1.39,10,Low,Login at unusual hour
+user_7,2026-04-23 03:35:58.317009,192.168.1.2,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_7,2026-04-23 07:29:58.317009,192.168.1.10,20,Low,Anomalous pattern (ML)
+user_7,2026-04-23 11:38:58.317009,192.168.1.21,20,Low,Anomalous pattern (ML)
+user_7,2026-04-23 21:21:58.317009,192.168.1.36,20,Low,Anomalous pattern (ML)
+user_7,2026-04-23 22:14:58.317009,192.168.1.40,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_7,2026-04-23 22:58:58.317009,192.168.1.3,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_7,2026-04-24 01:48:58.317009,192.168.1.9,10,Low,Login at unusual hour
+user_7,2026-04-24 04:19:58.317009,192.168.1.29,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_7,2026-04-24 08:17:58.317009,192.168.1.26,20,Low,Anomalous pattern (ML)
+user_8,2026-04-22 20:35:58.317009,192.168.1.11,20,Low,Anomalous pattern (ML)
+user_8,2026-04-22 22:47:58.317009,192.168.1.37,20,Low,Anomalous pattern (ML)
+user_8,2026-04-22 23:11:58.317009,192.168.1.11,20,Low,Anomalous pattern (ML)
+user_8,2026-04-23 01:31:58.317009,192.168.1.46,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_8,2026-04-23 02:47:58.317009,192.168.1.15,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_8,2026-04-23 03:42:58.317009,192.168.1.46,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_8,2026-04-23 05:04:58.317009,192.168.1.8,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_8,2026-04-23 05:31:58.317009,192.168.1.2,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_8,2026-04-23 10:27:58.317009,192.168.1.43,20,Low,Anomalous pattern (ML)
+user_8,2026-04-23 14:03:58.317009,192.168.1.1,20,Low,Anomalous pattern (ML)
+user_8,2026-04-23 14:09:58.317009,192.168.1.19,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_8,2026-04-23 15:21:58.317009,192.168.1.32,20,Low,Anomalous pattern (ML)
+user_8,2026-04-23 17:15:58.317009,192.168.1.34,20,Low,Anomalous pattern (ML)
+user_8,2026-04-23 17:45:58.317009,192.168.1.4,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_8,2026-04-23 20:32:58.317009,192.168.1.43,20,Low,Anomalous pattern (ML)
+user_8,2026-04-24 00:10:58.317009,192.168.1.4,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_8,2026-04-24 06:12:58.317009,192.168.1.26,20,Low,Anomalous pattern (ML)
+user_8,2026-04-24 06:23:58.317009,192.168.1.44,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_9,2026-04-22 16:28:58.317009,192.168.1.39,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_9,2026-04-22 18:03:58.317009,192.168.1.20,20,Low,Anomalous pattern (ML)
+user_9,2026-04-22 19:08:58.317009,192.168.1.10,20,Low,Anomalous pattern (ML)
+user_9,2026-04-23 00:01:58.317009,192.168.1.10,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_9,2026-04-23 00:42:58.317009,192.168.1.34,60,Medium,"Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_9,2026-04-23 02:48:58.317009,192.168.1.5,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_9,2026-04-23 04:50:58.317009,192.168.1.44,30,Medium,"Anomalous pattern (ML), Login at unusual hour"
+user_9,2026-04-23 08:29:58.317009,192.168.1.22,20,Low,Anomalous pattern (ML)
+user_9,2026-04-23 08:38:58.317009,192.168.1.27,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_9,2026-04-23 09:28:58.317009,192.168.1.42,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_9,2026-04-23 10:54:58.317009,192.168.1.39,20,Low,Anomalous pattern (ML)
+user_9,2026-04-23 11:04:58.317009,192.168.1.19,30,Medium,Impossible travel detected
+user_9,2026-04-23 13:07:58.317009,192.168.1.34,20,Low,Anomalous pattern (ML)
+user_9,2026-04-23 13:11:58.317009,192.168.1.11,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_9,2026-04-23 13:28:58.317009,192.168.1.26,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_9,2026-04-23 15:58:58.317009,192.168.1.40,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_9,2026-04-23 18:03:58.317009,192.168.1.49,20,Low,Anomalous pattern (ML)
+user_9,2026-04-23 20:43:58.317009,192.168.1.39,20,Low,Anomalous pattern (ML)
+user_9,2026-04-23 21:16:58.317009,192.168.1.33,20,Low,Anomalous pattern (ML)
+user_9,2026-04-23 21:47:58.317009,192.168.1.27,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_9,2026-04-23 21:52:58.317009,192.168.1.15,50,Medium,"Impossible travel detected, Anomalous pattern (ML)"
+user_9,2026-04-23 23:55:58.317009,192.168.1.12,60,Medium,"Multiple failed attempts, Anomalous pattern (ML)"
+user_9,2026-04-24 02:34:58.317009,192.168.1.41,70,High,"Multiple failed attempts, Anomalous pattern (ML), Login at unusual hour"
+user_9,2026-04-24 03:24:58.317009,192.168.1.33,100,High,"Multiple failed attempts, Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_9,2026-04-24 03:38:58.317009,192.168.1.7,100,High,"Multiple failed attempts, Impossible travel detected, Anomalous pattern (ML), Login at unusual hour"
+user_9,2026-04-24 07:23:58.317009,192.168.1.20,60,Medium,"Multiple failed attempts, Anomalous pattern (ML)"
+user_9,2026-04-24 08:45:58.317009,192.168.1.45,20,Low,Anomalous pattern (ML)
